@@ -3,6 +3,7 @@ The project contains code to a game called "Flappy Bird".
 Flappy Bird is a game where a player controls a bird to dodge incoming pipes by going between them. Once you hit a pipe, you are out.
 
 To get started with the project, simply download all the files and run the file called "flappybird.py". 
+This game is coded in Python and an extension called Pygame.
 This will automatically bring you to a screen where the game will start. 
 Press 'SPACE' to control the bird's vertical location to dodge the incoming pipes.
 
